@@ -16,7 +16,7 @@
     "ask-sdk": "^2.7.0",
     "ask-sdk-core": "^2.6.0",
     "ask-sdk-model": "^1.18.0",
-    "aws-sdk": "2.637.0",
+    "aws-sdk": "2.1693.0",
     "i18next": "^19.4.4",
     "lodash": "^4.17.15",
     "sprintf-js": "^1.1.2"
